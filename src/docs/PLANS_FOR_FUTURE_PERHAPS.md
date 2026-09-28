@@ -5,3 +5,4 @@
 
 - Use images of [images](../../public/) for create a game, or anything else.
 - Implement system of login to save progress.
+- Maybe use framework React
